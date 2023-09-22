@@ -1,0 +1,53 @@
+.feature-col1{
+    background-color: rgb(67, 67, 196);
+    border: 2px transparent;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    width: 18%;
+    color: white;
+    font-size: larger;
+}
+.feature-col2{
+    background-color: rgba(91, 55, 152, 0.886);
+    border: 2px transparent;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    width: 18%;
+    color: white;
+    font-size: larger;
+}
+.feature-col3{
+    background-color: rgba(95, 159, 219, 0.886);
+    border: 2px transparent;
+    border-radius: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    width: 18%;
+    color: white;
+    font-size: larger;
+}
+.details{
+    display: flex;
+    width: 100%;
+    margin-left: 200px;
+}
+.weather-body{
+    background-image: url(b_image.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fs-2{
+    margin-left: 15px;
+    color: aliceblue;
+}
+
+.heading_city{
+    font-size:xxxxxx-large;
+    text-align: center;
+    color: rgb(238, 238, 246);
+    margin-top: 20px;
+    background-color: rgb(45, 73, 233);
+}
